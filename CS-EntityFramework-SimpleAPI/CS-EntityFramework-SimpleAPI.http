@@ -1,0 +1,6 @@
+@CS_EntityFramework_SimpleAPI_HostAddress = http://localhost:5086
+
+GET {{CS_EntityFramework_SimpleAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
