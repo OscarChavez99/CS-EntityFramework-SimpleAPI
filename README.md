@@ -1,5 +1,5 @@
 # CS-EntityFramework-SimpleAPI
-This project is a simple CRUD to learn how <b>Entity Framework<b> works
+This project is a simple CRUD to learn how <b>Entity Framework</b> works
 
 ## This project allows performing CRUD actions through an API using the Entity Framework
 ![image](https://github.com/OscarChavez99/CS-EntityFramework-SimpleAPI/assets/80979314/448e95b0-a74f-420c-970e-4146bfb22d9c)
